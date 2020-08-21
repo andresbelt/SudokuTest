@@ -1,5 +1,6 @@
 # SudokuTest
-this code is the Sudoku Solution Validator and corresponds to a technical challenge has a build in docker with java 8
+
+This code is the Sudoku Solution Validator and corresponds to a technical challenge has a build in docker with java 8
 
 
 # Build the image with docker
