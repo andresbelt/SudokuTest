@@ -17,5 +17,5 @@ $ docker run --rm -v $PWD:/app -w /app demo/oracle-java:8 javac SudokuValidator.
 # Run the Solution 
 
 ```bash
-$ docker run --rm -v $PWD:/app -w /app demo/oracle-java:8 java Main
+$ docker run --rm -v $PWD:/app -w /app demo/oracle-java:8 java SudokuValidator
 ```
